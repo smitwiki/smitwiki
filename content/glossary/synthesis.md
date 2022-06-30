@@ -11,4 +11,4 @@ date: 2022-06-21T00:16:54+08:00
 
 -   另外也要注意verilog中的可综合与不可综合语句。
   
-    ![图示 描述已自动生成](/media/5.png)
+    ![图示 描述已自动生成](https://cdn.jsdelivr.net/gh/smitwiki/smitwiki@master/static/media/5.png)

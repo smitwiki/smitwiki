@@ -9,4 +9,4 @@ date: 2022-06-21T00:16:54+08:00
     [信号位宽-1 ：0] 端口名，output [信号位宽-1 ：0] 端口名，reg [width-1 : 0]
     R变量，wire [width-1 : 0] W变量，这种多bit位数据之间直接进行位运算操作。
 
-    ![图示 描述已自动生成](/media/8.png)
+    ![图示 描述已自动生成](https://cdn.jsdelivr.net/gh/smitwiki/smitwiki@master/static/media/8.png)

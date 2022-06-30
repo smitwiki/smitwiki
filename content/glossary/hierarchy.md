@@ -10,4 +10,4 @@ date: 2022-06-21T00:16:54+08:00
 
 -   若利用布尔运算法则说明，则是给设计添加中间变量和逻辑结构。层次化电路中，综合工具会寻找可分解出来的子块进行扁平化处理。
 
-    ![图示 描述已自动生成](/media/3.png)
+    ![图示 描述已自动生成](https://cdn.jsdelivr.net/gh/smitwiki/smitwiki@master/static/media/3.png)

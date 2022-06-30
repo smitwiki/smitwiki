@@ -12,4 +12,4 @@ date: 2022-06-21T00:16:54+08:00
 
 ![文本 描述已自动生成](media/2.png)
 
-![图示 描述已自动生成](/media/2_1.png)
+![图示 描述已自动生成](https://cdn.jsdelivr.net/gh/smitwiki/smitwiki@master/static/media/2_1.png)

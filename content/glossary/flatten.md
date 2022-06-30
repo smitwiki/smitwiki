@@ -8,4 +8,4 @@ date: 2022-06-21T00:16:54+08:00
 
 -   具体地讲，flatten扁平化能将RTL代码实际对应的结构描述中的众多算术运算单元（ALU）、多路选择器（MUX）、寄存器等，进一步展开，转换成用AND、OR、NOT、XNOR等逻辑门和DFF、JK或者RS等基本触发器搭建的电路。
 
-    ![图示 描述已自动生成](/media/4.png)
+    ![图示 描述已自动生成](https://cdn.jsdelivr.net/gh/smitwiki/smitwiki@master/static/media/4.png)
