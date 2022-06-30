@@ -1,0 +1,82 @@
+baseURL: "/"
+title: "Hugo Themes"
+author: "Steve Francia"
+copyright: "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+paginate: 10
+languageCode: "en"
+DefaultContentLanguage: "en"
+enableInlineShortcodes: true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors: ["error-remote-getjson"]
+
+# ------------------------------
+theme: "hugo-paper"
+title: "wiki"
+
+
+params:
+  twitter: 'nanxiaobei'
+  github: 'nanxiaobei'
+  instagram: 'nan.xiaobei'
+
+
+menu:
+  main:
+    - name: "关于"
+      url: "/about/"
+      weight: 1
+    - name: "博客"
+      url: "/post/"
+      weight: 2
+    - name: "作者"
+      url: "/author/"
+      weight: 3
+    - name: "标签"
+      url: "/tags/"
+      weight: 3
+    - name: "分类"
+      url: "/categories/"
+      weight: 3
+    - name: "系列"
+      url: "/series/"
+      weight: 3
+
+# ------------------------------
+
+# needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
+markup:
+    goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  category: "categories"
+  author: "author"
+  tag: "tags"
+  series: "series"
+
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+
+  instagram:
+    disabled: false
+    simple: true
+
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+
+services:
+  services.instagram:
+    disableInlineCSS: true
+
+  services.twitter:
+    disableInlineCSS: true
