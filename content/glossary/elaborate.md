@@ -1,7 +1,7 @@
 ---
 title: "elaborate"
 date: 2022-06-21T00:16:54+08:00
-author: "糸色先生"
+
 ---
 
 -   综合包括翻译（translation）+优化（optimization）+映射（techmapping）。elaborate是翻译步骤的一部分。

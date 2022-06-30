@@ -1,7 +1,7 @@
 ---
 title: "RTL"
 date: 2022-06-21T00:16:54+08:00
-author: "糸色先生"
+
 ---
 
 -   在电路设计中RTL（Register Transfer Level）表示寄存器传输级。

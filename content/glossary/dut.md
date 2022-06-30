@@ -1,7 +1,7 @@
 ---
 title: "DUT"
 date: 2022-06-21T00:16:54+08:00
-author: "糸色先生"
+
 ---
 
 -   DUT（design under test）是待测设计的缩写，它一般指的是RTL设计代码。

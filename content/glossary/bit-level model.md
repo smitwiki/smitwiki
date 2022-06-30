@@ -1,7 +1,7 @@
 ---
 title: "bit-level model"
 date: 2022-06-21T00:16:54+08:00
-author: "糸色先生"
+
 ---
 
 -   bit-level model表示对rtl电路设计的一种位级表示，一般来说，位级表示模型中会出现类似于input
