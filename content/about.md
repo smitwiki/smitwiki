@@ -12,5 +12,5 @@ description: "Hugo, the world's fastest framework for building websites"
 
 # 相关链接
 
-* Github 源码：
+* Github 源码：<https://github.com/smitwiki>
 
