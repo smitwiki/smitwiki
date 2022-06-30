@@ -16,4 +16,4 @@ date: 2022-06-21T00:16:54+08:00
 -   在启动一个FSM时，首先必须将FSM置于“起始状态”，然后输入一系列字符，将从当前状态转换到另一个状态
     ，或者仍然保持在当前状态，最终，FSM会到达“结束状态”或者“消亡状态”。
 
-1.  ![图示 中度可信度描述已自动生成](media/20.png)
+1.  ![图示 中度可信度描述已自动生成](https://cdn.jsdelivr.net/gh/smitwiki/smitwiki@master/static/media/20.png)

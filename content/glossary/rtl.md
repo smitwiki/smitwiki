@@ -10,5 +10,5 @@ date: 2022-06-21T00:16:54+08:00
 
 -   在ASIC设计中，设计者的任务是给出功能正确的RTL级代码。
 
-![文本 描述已自动生成](media/1.png)
+![文本 描述已自动生成](https://cdn.jsdelivr.net/gh/smitwiki/smitwiki@master/static/media/1.png)
 
