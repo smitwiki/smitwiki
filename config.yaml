@@ -20,6 +20,11 @@ params:
   github: 'nanxiaobei'
   instagram: 'nan.xiaobei'
   mainSections: ["post"]
+  utteranc:
+    enable: false
+    repo: "smitwiki/comment"
+    issueTerm: "title"
+    theme: "github-light"
 
 menu:
   main:

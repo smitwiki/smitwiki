@@ -40,6 +40,9 @@
   </nav>
   {{ end }}
 
+
+  {{ partial "comment.html" . }}
+
   <!-- Disqus -->
   {{ if and site.DisqusShortname (not (eq .Params.comments false)) }}
   <div id="disqus_thread" class="post-comments"></div>
