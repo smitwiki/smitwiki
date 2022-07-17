@@ -1,7 +1,5 @@
 baseURL: "/"
-title: "Hugo Themes"
-author: "Steve Francia"
-copyright: "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
+title: "wiki"
 paginate: 10
 languageCode: "en"
 DefaultContentLanguage: "en"
@@ -16,9 +14,7 @@ title: "wiki"
 
 
 params:
-  twitter: 'nanxiaobei'
-  github: 'nanxiaobei'
-  instagram: 'nan.xiaobei'
+  github: 'smitwiki'
   mainSections: ["post"]
   utteranc:
     enable: true
@@ -43,9 +39,9 @@ menu:
     - name: "分类"
       url: "/categories/"
       weight: 3
-    - name: "系列"
-      url: "/series/"
-      weight: 3
+    # - name: "系列"
+    #   url: "/series/"
+    #   weight: 3
 
 # ------------------------------
 
